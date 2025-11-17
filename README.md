@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joaquim</h1>
-<h3 align="center">A Brazilian trainee python developer</h3>
+<h3 align="center">A Brazilian junior python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquimcassano&label=Profile%20views&color=0e75b6&style=flat" alt="joaquimcassano" /> </p>
 
-- 🌱 I’m currently learning **NodeJS, Pytorch and Docker**
+- 🌱 I’m currently learning **NodeJS, NextJS and React**
 
 - 📫 How to reach me: **joaquim@cassano.com.br**
 
